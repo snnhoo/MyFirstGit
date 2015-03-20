@@ -1,2 +1,3 @@
-Git is a version control system.
-Git is free software.
+2.git config user.name "someone"
+
+3.git config user.email "someone@someplace.com"
