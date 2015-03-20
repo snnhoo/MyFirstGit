@@ -1,3 +1,2 @@
-2.git config user.name "someone"
-
-3.git config user.email "someone@someplace.com"
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
